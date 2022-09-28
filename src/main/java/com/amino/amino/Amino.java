@@ -12,6 +12,6 @@ package com.amino.amino;
 public class Amino {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Besm ALAh");
     }
 }
